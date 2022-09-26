@@ -1,6 +1,6 @@
 # Tutorial: webapp2 without Cloud SDK but with Jinja2
 
-This tutorial is for anyone who wants to use the webapp2 Python framework without the Cloud SDK on their computer. It's similar to [this tutorial](https://github.com/smartninja/webapp2-no-gae-basic), except that it also uses templating engine Jinja.
+This tutorial is for anyone who wants to use the webapp2 Python framework without the Cloud SDK on their computer. It's similar to [this tutorial](https://github.com/bhageshpuri/webapp2-no-gae-jinja-master), except that it also uses templating engine Jinja.
 
 You have two options:
 
@@ -9,7 +9,7 @@ You have two options:
 
 ## Skip the tutorial
 
-If you're eager to start using this boilerplate code right away, just download the repository in a ZIP format ([download here](https://github.com/smartninja/webapp2-no-gae-jinja/archive/master.zip)), unzip it and install PIP dependencies: `pip install -r requirements.txt`.
+If you're eager to start using this boilerplate code right away, just download the repository in a ZIP format ([download here](https://github.com/bhageshpuri/webapp2-no-gae-jinja-master/master.zip)) unzip it and install PIP dependencies: `pip install -r requirements.txt`.
 
 If you don't know how to do it, follow this tutorial. Also, if you'd like to deploy on Google Cloud (App Engine), scroll down to step 9.
 
