@@ -206,4 +206,4 @@ Now reload the main.py app and your browser. You should see the `message` variab
 
 ### Step 9 (bonus): Deploy to Google Cloud (App Engine)
 
-Even if the Cloud SDK does not work on your computer, you can still deploy this web app on Google Cloud (on Google App Engine). See this tutorial to learn how: [click here](https://github.com/smartninja/webapp2-github-to-gcloud).
+Even if the Cloud SDK does not work on your computer, you can still deploy this web app on Google Cloud (on Google App Engine). See this tutorial to learn how: [click here](https://github.com/bhageshpuri/deploy-app-engine-github).
